@@ -1,5 +1,5 @@
 {
-  "name": "zPHP-Telegram",
+  "name": "zigzag-mobile/zPHP-Telegram",
   "version": "1.0.0",
   "require": {
     "php": ">=7.1.0"
